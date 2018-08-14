@@ -1,1 +1,1 @@
-# stephenmanz-theme
+# spud-theme
